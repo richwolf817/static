@@ -1,0 +1,115 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Reac.io</title><description>Cool + Cutting Edge React ML Web Apps</description><link>https://reac.io/</link><image><url>http://reac.io/favicon.png</url><title>Reac.io</title><link>https://reac.io/</link></image><generator>Ghost 1.22</generator><lastBuildDate>Fri, 11 May 2018 14:39:17 GMT</lastBuildDate><atom:link href="https://reac.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>New Ghost Website! That was fun...</title><description>&lt;div class="kg-card-markdown"&gt;&lt;p&gt;Hey! Welcome to Reac.io, a cool little Node CMS running on Ghost. Created this site as an umbrella for various React and Machine Learning collaraboration projects.&lt;/p&gt;
+&lt;p&gt;If you are a developer like me, you are probably wondering why PHP is still in your skill set. Wordpress, Drupal, Magento... Everytime&lt;/p&gt;&lt;/div&gt;</description><link>https://reac.io/welcome/</link><guid isPermaLink="false">5af461f9f67efd470a1196e0</guid><category>Startups</category><dc:creator>Richard Wolf</dc:creator><pubDate>Thu, 10 May 2018 15:15:10 GMT</pubDate><media:content url="https://reac.io/content/images/2018/05/ghost.jpg" medium="image"/><content:encoded>&lt;div class="kg-card-markdown"&gt;&lt;img src="https://reac.io/content/images/2018/05/ghost.jpg" alt="New Ghost Website! That was fun..."&gt;&lt;p&gt;Hey! Welcome to Reac.io, a cool little Node CMS running on Ghost. Created this site as an umbrella for various React and Machine Learning collaraboration projects.&lt;/p&gt;
+&lt;p&gt;If you are a developer like me, you are probably wondering why PHP is still in your skill set. Wordpress, Drupal, Magento... Everytime I think I'm out.. I need a CMS, and it pulls me back in!!!&lt;/p&gt;
+&lt;p&gt;It only took about an hour to get a production version of Ghost up on AWS. It's super clean and super lean, the only issue issue is lack of themes. This is the default Casper, not sure if I'll pick one or just customize.&lt;/p&gt;
+&lt;p&gt;Right now the projects I'm working on are Piece.House, MLG.CLOUD, Devo.cloud, and Cerebras.&lt;/p&gt;
+&lt;p&gt;Why would anyone work on so many projects at the same time?!?!?  Because they are all so fascinating I can't choose!!!!  and they all kinda go together :)&lt;/p&gt;
+&lt;/div&gt;</content:encoded></item><item><title>Piece.House - The Inspiration</title><description>&lt;div class="kg-card-markdown"&gt;&lt;p&gt;In the beginning, there was open-source...&lt;/p&gt;
+&lt;p&gt;Developers who loved the code so much, they built it for free.&lt;/p&gt;
+&lt;p&gt;Piece.House is a unique new way of launching startups. Everyone can gets to play! Currently in Alpha.&lt;/p&gt;
+&lt;/div&gt;</description><link>https://reac.io/piece-house/</link><guid isPermaLink="false">5af461f9f67efd470a1196de</guid><category>Startups</category><dc:creator>Richard Wolf</dc:creator><pubDate>Thu, 10 May 2018 15:15:09 GMT</pubDate><media:content url="https://reac.io/content/images/2018/05/house-1.png" medium="image"/><content:encoded>&lt;div class="kg-card-markdown"&gt;&lt;img src="https://reac.io/content/images/2018/05/house-1.png" alt="Piece.House - The Inspiration"&gt;&lt;p&gt;In the beginning, there was open-source...&lt;/p&gt;
+&lt;p&gt;Developers who loved the code so much, they built it for free.&lt;/p&gt;
+&lt;p&gt;Piece.House is a unique new way of launching startups. Everyone can gets to play! Currently in Alpha.&lt;/p&gt;
+&lt;/div&gt;</content:encoded></item><item><title>Organising your content with tags</title><description>&lt;div class="kg-card-markdown"&gt;&lt;p&gt;Ghost has a single, powerful organisational taxonomy, called tags.&lt;/p&gt;
+&lt;p&gt;It doesn't matter whether you want to call them categories, tags, boxes, or anything else. You can think of Ghost tags a lot like Gmail labels. By tagging posts with one or more keyword, you can organise articles into buckets of&lt;/p&gt;&lt;/div&gt;</description><link>https://reac.io/using-tags/</link><guid isPermaLink="false">5af461f9f67efd470a1196dc</guid><category>Ghost Tips</category><dc:creator>Ghost</dc:creator><pubDate>Thu, 10 May 2018 15:15:08 GMT</pubDate><media:content url="https://casper.ghost.org/v1.0.0/images/tags.jpg" medium="image"/><content:encoded>&lt;div class="kg-card-markdown"&gt;&lt;img src="https://casper.ghost.org/v1.0.0/images/tags.jpg" alt="Organising your content with tags"&gt;&lt;p&gt;Ghost has a single, powerful organisational taxonomy, called tags.&lt;/p&gt;
+&lt;p&gt;It doesn't matter whether you want to call them categories, tags, boxes, or anything else. You can think of Ghost tags a lot like Gmail labels. By tagging posts with one or more keyword, you can organise articles into buckets of related content.&lt;/p&gt;
+&lt;h2 id="basictagging"&gt;Basic tagging&lt;/h2&gt;
+&lt;p&gt;When you write a post, you can assign tags to help differentiate between categories of content. For example, you might tag some posts with &lt;code&gt;News&lt;/code&gt; and other posts with &lt;code&gt;Cycling&lt;/code&gt;, which would create two distinct categories of content listed on &lt;code&gt;/tag/news/&lt;/code&gt; and &lt;code&gt;/tag/cycling/&lt;/code&gt;, respectively.&lt;/p&gt;
+&lt;p&gt;If you tag a post with both &lt;code&gt;News&lt;/code&gt; &lt;em&gt;and&lt;/em&gt; &lt;code&gt;Cycling&lt;/code&gt; - then it appears in both sections.&lt;/p&gt;
+&lt;p&gt;Tag archives are like dedicated home-pages for each category of content that you have. They have their own pages, their own RSS feeds, and can support their own cover images and meta data.&lt;/p&gt;
+&lt;h2 id="theprimarytag"&gt;The primary tag&lt;/h2&gt;
+&lt;p&gt;Inside the Ghost editor, you can drag and drop tags into a specific order. The first tag in the list is always given the most importance, and some themes will only display the primary tag (the first tag in the list) by default. So you can add the most important tag which you want to show up in your theme, but also add a bunch of related tags which are less important.&lt;/p&gt;
+&lt;p&gt;&lt;mark&gt;&lt;strong&gt;News&lt;/strong&gt;, Cycling, Bart Stevens, Extreme Sports&lt;/mark&gt;&lt;/p&gt;
+&lt;p&gt;In this example, &lt;strong&gt;News&lt;/strong&gt; is the primary tag which will be displayed by the theme, but the post will also still receive all the other tags, and show up in their respective archives.&lt;/p&gt;
+&lt;h2 id="privatetags"&gt;Private tags&lt;/h2&gt;
+&lt;p&gt;Sometimes you may want to assign a post a specific tag, but you don't necessarily want that tag appearing in the theme or creating an archive page. In Ghost, hashtags are private and can be used for special styling.&lt;/p&gt;
+&lt;p&gt;For example, if you sometimes publish posts with video content - you might want your theme to adapt and get rid of the sidebar for these posts, to give more space for an embedded video to fill the screen. In this case, you could use private tags to tell your theme what to do.&lt;/p&gt;
+&lt;p&gt;&lt;mark&gt;&lt;strong&gt;News&lt;/strong&gt;, Cycling, #video&lt;/mark&gt;&lt;/p&gt;
+&lt;p&gt;Here, the theme would assign the post publicly displayed tags of &lt;code&gt;News&lt;/code&gt;, and &lt;code&gt;Cycling&lt;/code&gt; - but it would also keep a private record of the post being tagged with &lt;code&gt;#video&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;In your theme, you could then look for private tags conditionally and give them special formatting:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{#post}}
+    {{#has tag=&amp;quot;#video&amp;quot;}}
+        ...markup for a nice big video post layout...
+    {{else}}
+        ...regular markup for a post...
+    {{/has}}
+{{/post}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;You can find documentation for theme development techniques like this and many more over on Ghost's extensive &lt;a href="https://themes.ghost.org/"&gt;theme documentation&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;</content:encoded></item><item><title>MLG.CLOUD</title><description>&lt;div class="kg-card-markdown"&gt;&lt;p&gt;After experimenting with AWS P2 and P3 instances, I decided it was time to build my own ML GPU server.&lt;/p&gt;
+&lt;p&gt;GPU vituralization is rapidly changing. A few years ago the only option was hardware virturalization, GPU cards specficially designed to be broken into 8 VMs.&lt;/p&gt;
+&lt;p&gt;While the majority of ML&lt;/p&gt;&lt;/div&gt;</description><link>https://reac.io/managing-users/</link><guid isPermaLink="false">5af461f9f67efd470a1196da</guid><category>Startups</category><dc:creator>Richard Wolf</dc:creator><pubDate>Thu, 10 May 2018 15:15:07 GMT</pubDate><media:content url="https://reac.io/content/images/2018/05/8400b37a-b7ea-4ea8-aac4-c2bcf356c631-original.jpeg" medium="image"/><content:encoded>&lt;div class="kg-card-markdown"&gt;&lt;img src="https://reac.io/content/images/2018/05/8400b37a-b7ea-4ea8-aac4-c2bcf356c631-original.jpeg" alt="MLG.CLOUD"&gt;&lt;p&gt;After experimenting with AWS P2 and P3 instances, I decided it was time to build my own ML GPU server.&lt;/p&gt;
+&lt;p&gt;GPU vituralization is rapidly changing. A few years ago the only option was hardware virturalization, GPU cards specficially designed to be broken into 8 VMs.&lt;/p&gt;
+&lt;p&gt;While the majority of ML players are trying to put the most powerful GPU servers together, MLG.CLOUD is focused on dividing GPU power into small enough chucks it's affordable for web apps.&lt;/p&gt;
+&lt;p&gt;The picture is of the dev server I recently built. It's capable of running upto 48 ML session that data is passed to from React.&lt;/p&gt;
+&lt;p&gt;Comparing it to AWS, the least expensive GPU server would cost you ~750 dollars a month. My server has broken it into 20 dollar monthly chucks.&lt;/p&gt;
+&lt;p&gt;The first app is pretty simple. Google's Magenta running on TensorFlow with midi files being passsed from React with Dropzone.js&lt;/p&gt;
+&lt;/div&gt;</content:encoded></item><item><title>Devo.cloud</title><description>&lt;div class="kg-card-markdown"&gt;&lt;p&gt;The Digital Evolution of the Cloud.&lt;/p&gt;
+&lt;p&gt;Devo.cloud is just an idea at this point. The core concept is to extending the Lambda worker bot model from performing task to searching for task.&lt;/p&gt;
+&lt;/div&gt;</description><link>https://reac.io/devo-cloud/</link><guid isPermaLink="false">5af461f9f67efd470a1196d8</guid><category>Startups</category><dc:creator>Richard Wolf</dc:creator><pubDate>Thu, 10 May 2018 15:15:06 GMT</pubDate><media:content url="https://reac.io/content/images/2018/05/il_fullxfull.636606538_hlt2.jpg" medium="image"/><content:encoded>&lt;div class="kg-card-markdown"&gt;&lt;img src="https://reac.io/content/images/2018/05/il_fullxfull.636606538_hlt2.jpg" alt="Devo.cloud"&gt;&lt;p&gt;The Digital Evolution of the Cloud.&lt;/p&gt;
+&lt;p&gt;Devo.cloud is just an idea at this point. The core concept is to extending the Lambda worker bot model from performing task to searching for task.&lt;/p&gt;
+&lt;/div&gt;</content:encoded></item><item><title>Advanced Markdown tips</title><description>&lt;div class="kg-card-markdown"&gt;&lt;p&gt;There are lots of powerful things you can do with the Ghost editor&lt;/p&gt;
+&lt;p&gt;If you've gotten pretty comfortable with &lt;a href="https://reac.io/the-editor/"&gt;all the basics&lt;/a&gt; of writing in Ghost, then you may enjoy some more advanced tips about the types of things you can do with Markdown!&lt;/p&gt;
+&lt;p&gt;As with the last post about&lt;/p&gt;&lt;/div&gt;</description><link>https://reac.io/advanced-markdown/</link><guid isPermaLink="false">5af461f9f67efd470a1196d6</guid><category>Ghost Tips</category><dc:creator>Ghost</dc:creator><pubDate>Thu, 10 May 2018 15:15:05 GMT</pubDate><media:content url="https://casper.ghost.org/v1.0.0/images/advanced.jpg" medium="image"/><content:encoded>&lt;div class="kg-card-markdown"&gt;&lt;img src="https://casper.ghost.org/v1.0.0/images/advanced.jpg" alt="Advanced Markdown tips"&gt;&lt;p&gt;There are lots of powerful things you can do with the Ghost editor&lt;/p&gt;
+&lt;p&gt;If you've gotten pretty comfortable with &lt;a href="https://reac.io/the-editor/"&gt;all the basics&lt;/a&gt; of writing in Ghost, then you may enjoy some more advanced tips about the types of things you can do with Markdown!&lt;/p&gt;
+&lt;p&gt;As with the last post about the editor, you'll want to be actually editing this post as you read it so that you can see all the Markdown code we're using.&lt;/p&gt;
+&lt;h2 id="specialformatting"&gt;Special formatting&lt;/h2&gt;
+&lt;p&gt;As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;s&gt;strike through&lt;/s&gt;&lt;/li&gt;
+&lt;li&gt;&lt;mark&gt;highlight&lt;/mark&gt;&lt;/li&gt;
+&lt;li&gt;*escaped characters*&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="writingcodeblocks"&gt;Writing code blocks&lt;/h2&gt;
+&lt;p&gt;There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, &lt;code&gt;like this&lt;/code&gt;. Larger snippets of code can be displayed across multiple lines using triple back ticks:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;.my-link {
+    text-decoration: underline;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;If you want to get really fancy, you can even add syntax highlighting using &lt;a href="http://prismjs.com/"&gt;Prism.js&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id="fullbleedimages"&gt;Full bleed images&lt;/h2&gt;
+&lt;p&gt;One neat trick which you can use in Markdown to distinguish between different types of images is to add a &lt;code&gt;#hash&lt;/code&gt; value to the end of the source URL, and then target images containing the hash with special styling. For example:&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://casper.ghost.org/v1.0.0/images/walking.jpg#full" alt="Advanced Markdown tips"&gt;&lt;/p&gt;
+&lt;p&gt;which is styled with...&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;img[src$=&amp;quot;#full&amp;quot;] {
+    max-width: 100vw;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;This creates full-bleed images in the Casper theme, which stretch beyond their usual boundaries right up to the edge of the window. Every theme handles these types of things slightly differently, but it's a great trick to play with if you want to have a variety of image sizes and styles.&lt;/p&gt;
+&lt;h2 id="referencelists"&gt;Reference lists&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;The quick brown &lt;a href="https://en.wikipedia.org/wiki/Fox" title="Wikipedia: Fox"&gt;fox&lt;/a&gt;, jumped over the lazy &lt;a href="https://en.wikipedia.org/wiki/Dog" title="Wikipedia: Dog"&gt;dog&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.&lt;/p&gt;
+&lt;h2 id="creatingfootnotes"&gt;Creating footnotes&lt;/h2&gt;
+&lt;p&gt;The quick brown fox&lt;sup class="footnote-ref"&gt;&lt;a href="#fn1" id="fnref1"&gt;[1]&lt;/a&gt;&lt;/sup&gt; jumped over the lazy dog&lt;sup class="footnote-ref"&gt;&lt;a href="#fn2" id="fnref2"&gt;[2]&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Footnotes are a great way to add additional contextual details when appropriate. Ghost will automatically add footnote content to the very end of your post.&lt;/p&gt;
+&lt;h2 id="fullhtml"&gt;Full HTML&lt;/h2&gt;
+&lt;p&gt;Perhaps the best part of Markdown is that you're never limited to just Markdown. You can write HTML directly in the Ghost editor and it will just work as HTML usually does. No limits! Here's a standard YouTube embed code as an example:&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;amp;showinfo=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;hr class="footnotes-sep"&gt;
+&lt;section class="footnotes"&gt;
+&lt;ol class="footnotes-list"&gt;
+&lt;li id="fn1" class="footnote-item"&gt;&lt;p&gt;Foxes are red &lt;a href="#fnref1" class="footnote-backref"&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id="fn2" class="footnote-item"&gt;&lt;p&gt;Dogs are usually not red &lt;a href="#fnref2" class="footnote-backref"&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+&lt;/div&gt;</content:encoded></item><item><title>Setting up your own Ghost theme</title><description>&lt;div class="kg-card-markdown"&gt;&lt;p&gt;Creating a totally custom design for your publication&lt;/p&gt;
+&lt;p&gt;Ghost comes with a beautiful default theme called Casper, which is designed to be a clean, readable publication layout and can be easily adapted for most purposes. However, Ghost can also be completely themed to suit your needs. Rather than just giving&lt;/p&gt;&lt;/div&gt;</description><link>https://reac.io/themes/</link><guid isPermaLink="false">5af461f8f67efd470a1196d4</guid><category>Ghost Tips</category><dc:creator>Ghost</dc:creator><pubDate>Thu, 10 May 2018 15:15:04 GMT</pubDate><media:content url="https://casper.ghost.org/v1.0.0/images/design.jpg" medium="image"/><content:encoded>&lt;div class="kg-card-markdown"&gt;&lt;img src="https://casper.ghost.org/v1.0.0/images/design.jpg" alt="Setting up your own Ghost theme"&gt;&lt;p&gt;Creating a totally custom design for your publication&lt;/p&gt;
+&lt;p&gt;Ghost comes with a beautiful default theme called Casper, which is designed to be a clean, readable publication layout and can be easily adapted for most purposes. However, Ghost can also be completely themed to suit your needs. Rather than just giving you a few basic settings which act as a poor proxy for code, we just let you write code.&lt;/p&gt;
+&lt;p&gt;There are a huge range of both free and premium pre-built themes which you can get from the &lt;a href="http://marketplace.ghost.org"&gt;Ghost Theme Marketplace&lt;/a&gt;, or you can simply create your own from scratch.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://marketplace.ghost.org"&gt;&lt;img src="https://casper.ghost.org/v1.0.0/images/marketplace.jpg" alt="Setting up your own Ghost theme"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Anyone can write a completely custom Ghost theme, with just some solid knowledge of HTML and CSS&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Ghost themes are written with a templating language called handlebars, which has a bunch of dynamic helpers to insert your data into template files. Like &lt;code&gt;{{author.name}}&lt;/code&gt;, for example, outputs the name of the current author.&lt;/p&gt;
+&lt;p&gt;The best way to learn how to write your own Ghost theme is to have a look at &lt;a href="https://github.com/TryGhost/Casper"&gt;the source code for Casper&lt;/a&gt;, which is heavily commented and should give you a sense of how everything fits together.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;default.hbs&lt;/code&gt; is the main template file, all contexts will load inside this file unless specifically told to use a different template.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;post.hbs&lt;/code&gt; is the file used in the context of viewing a post.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;index.hbs&lt;/code&gt; is the file used in the context of viewing the home page.&lt;/li&gt;
+&lt;li&gt;and so on&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We've got &lt;a href="http://themes.ghost.org/docs/about"&gt;full and extensive theme documentation&lt;/a&gt; which outlines every template file, context and helper that you can use.&lt;/p&gt;
+&lt;p&gt;If you want to chat with other people making Ghost themes to get any advice or help, there's also a &lt;strong&gt;#themes&lt;/strong&gt; channel in our &lt;a href="https://slack.ghost.org"&gt;public Slack community&lt;/a&gt; which we always recommend joining!&lt;/p&gt;
+&lt;/div&gt;</content:encoded></item></channel></rss>
